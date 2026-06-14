@@ -1,397 +1,146 @@
-<p align="center">
-  <img src="./docs/assets/logo-lapidatto.png" alt="Lapidatto" width="240" />
-</p>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/196934709?s=200&v=4" alt="Lapidatto" width="120" />
 
-<h1 align="center">Lapidatto</h1>
+  # Lapidatto
 
-<p align="center">
-  <strong>Tecnologia simples para pequenos negócios.</strong><br />
-  Sistemas modulares, bem acabados e fáceis de usar — para o empreendedor focar no que realmente importa: vender, crescer e ganhar tempo.
-</p>
+  ### Well-built technology. Made simple.
 
-<p align="center">
-  <a href="#visão-do-projeto">Visão</a> •
-  <a href="#funcionalidades">Funcionalidades</a> •
-  <a href="#como-rodar-o-projeto">Como rodar</a> •
-  <a href="#qualidade-e-dna-de-qa">Qualidade</a> •
-  <a href="#roadmap">Roadmap</a>
-</p>
+  **Tecnologia simples, segura e bem acabada para pequenos negócios que precisam organizar o operacional e focar no que realmente importa: vender e crescer.**
 
-<p align="center">
-  <img alt="Status" src="https://img.shields.io/badge/status-em%20desenvolvimento-1482CB?style=for-the-badge" />
-  <img alt="SaaS" src="https://img.shields.io/badge/SaaS-modular-073A87?style=for-the-badge" />
-  <img alt="QA" src="https://img.shields.io/badge/DNA-QA-DD5502?style=for-the-badge" />
-  <img alt="Self-service" src="https://img.shields.io/badge/onboarding-self--service-FCA24C?style=for-the-badge" />
-</p>
+  ![Marca](https://img.shields.io/badge/marca-Lapidatto-073a87)
+  ![Produto](https://img.shields.io/badge/produto-SaaS%20modular-dd5502)
+  ![Qualidade](https://img.shields.io/badge/DNA-QA%20%26%20usabilidade-1482cb)
+  ![Foco](https://img.shields.io/badge/foco-micro%20e%20pequenas%20empresas-fca24c)
+</div>
 
 ---
 
-## Visão do projeto
+## Sobre a Lapidatto
 
-A **Lapidatto** nasce para democratizar o acesso à tecnologia para micro e pequenas empresas.
+A **Lapidatto** nasceu para democratizar o acesso à tecnologia para micro e pequenas empresas.
 
-Nosso primeiro passo é resolver uma dor bem real: **controle de estoque sem complicação**.
+Nosso objetivo é simples: criar sistemas que ajudem pequenos negócios a organizar processos, reduzir erros e ganhar tempo sem transformar tecnologia em mais uma dor de cabeça.
 
-A ideia é simples: entregar um sistema que ajude pequenos negócios a sair do caderno, da planilha bagunçada ou do “eu acho que ainda tem no estoque” para uma rotina mais organizada, clara e segura.
-
-> **Estoque em ordem. Cabeça em paz.**
-
-Este projeto faz parte do ecossistema Lapidatto: uma plataforma SaaS modular, pensada para crescer aos poucos, com qualidade, simplicidade e autonomia para quem usa.
+Acreditamos que software bom não precisa ser complicado. Ele precisa ser claro, confiável, acessível e feito para a rotina real de quem vende, atende, compra, organiza estoque, resolve problema e ainda precisa fazer o negócio crescer.
 
 ---
 
-## O problema que resolvemos
+## O que estamos construindo
 
-Pequenos negócios normalmente não têm tempo, equipe ou orçamento para lidar com sistemas complexos.
+Estamos desenvolvendo um ecossistema de sistemas **SaaS modulares**, começando por soluções para **gestão de estoque e inventário**.
 
-Na prática, isso vira:
+A proposta é que cada negócio consiga começar pelo que precisa agora e evoluir no próprio ritmo, sem pagar por complexidade desnecessária.
 
-- perda de tempo procurando produto;
-- venda de item que já acabou;
+### Nosso foco inicial
+
+- **Controle de estoque simples** para pequenos negócios.
+- **Organização de entrada e saída de produtos** sem complicação.
+- **Experiência self-service**, para o cliente conseguir começar sozinho.
+- **Documentação clara**, com passo a passo e exemplos reais.
+- **Qualidade acima da pressa**, com cuidado em usabilidade, estabilidade e experiência.
+
+---
+
+## Por que existimos
+
+Muitos pequenos empreendedores ainda controlam tudo no caderno, na planilha ou na memória.
+
+Isso funciona por um tempo, mas começa a gerar problemas quando o negócio cresce:
+
+- produto vendido que não existe mais;
 - estoque parado sem visibilidade;
-- retrabalho com planilhas;
-- dificuldade para entender o que entra, sai e precisa ser reposto.
+- tempo perdido procurando informação;
+- retrabalho em tarefas simples;
+- dificuldade para tomar decisões com segurança.
 
-A Lapidatto existe para reduzir esse esforço operacional com uma experiência mais simples, didática e confiável.
+A Lapidatto existe para transformar esse caos em uma rotina mais simples, organizada e previsível.
 
----
-
-## Nossa solução
-
-Um sistema de gestão modular começando pelo **módulo de estoque/inventário**, com foco em:
-
-- cadastro simples de produtos;
-- controle de entrada e saída;
-- visão clara do estoque atual;
-- organização por categorias;
-- fluxo pensado para iniciantes;
-- onboarding self-service;
-- documentação clara;
-- evolução contínua com base em feedback real.
-
-Aqui, a regra é: **se o sistema é difícil de usar, ele não resolveu o problema — só virou mais trabalho.**
+> **Tecnologia boa não é luxo. Tem que caber no bolso, fazer sentido na rotina e ajudar o pequeno negócio a crescer com mais autonomia.**
 
 ---
 
-## Funcionalidades
+## Como pensamos produto
 
-> Ajuste esta lista conforme o estágio real do projeto.
+Nosso jeito de construir tecnologia parte de uma ideia central: **software é feito para pessoas**.
 
-### Já disponível
+Por isso, antes de adicionar complexidade, buscamos entender o problema real e entregar o básico muito bem feito.
 
-- [ ] Cadastro de produtos
-- [ ] Edição e remoção de produtos
-- [ ] Controle de quantidade em estoque
-- [ ] Registro de entrada de itens
-- [ ] Registro de saída de itens
-- [ ] Busca e filtros
-- [ ] Autenticação de usuários
-- [ ] Painel inicial com resumo do estoque
+### Princípios que guiam nossos produtos
 
-### Em desenvolvimento
-
-- [ ] Categorias personalizadas
-- [ ] Alertas de estoque baixo
-- [ ] Histórico de movimentações
-- [ ] Importação via planilha
-- [ ] Exportação de dados
-- [ ] Relatórios simples
-- [ ] Base de conhecimento integrada
-
-### Futuro do ecossistema
-
-- [ ] Módulo financeiro
-- [ ] Módulo de vendas
-- [ ] Integrações com canais de venda
-- [ ] Dashboard com indicadores do negócio
-- [ ] Add-ons por necessidade do cliente
+- **Simplicidade didática**: telas claras, linguagem simples e menos atrito.
+- **Qualidade de QA**: cuidado com estabilidade, previsibilidade e experiência real de uso.
+- **Autonomia do cliente**: o usuário deve conseguir testar, aprender e usar sem depender de uma reunião obrigatória.
+- **Evolução contínua**: melhorar com base em dados, feedback e uso real.
+- **Preço justo e modularidade**: começar pequeno, usar o que faz sentido e crescer com calma.
 
 ---
 
-## Como funciona
+## Tecnologia com responsabilidade
 
-A experiência foi pensada para ser direta:
+A Lapidatto usa tecnologia para reduzir esforço, não para criar barreiras.
 
-1. **Crie sua conta**  
-   Entre no sistema sem burocracia.
+Trabalhamos com uma base técnica moderna, pensada para evolução, segurança, manutenção e boa experiência de uso. Ao mesmo tempo, tratamos informações internas, arquitetura, acessos, integrações e detalhes operacionais com responsabilidade.
 
-2. **Cadastre seus primeiros produtos**  
-   Comece pequeno: 10 itens já são suficientes para entender o fluxo.
+Em materiais públicos, evitamos expor:
 
-3. **Controle entrada e saída**  
-   Chegou produto? Registra entrada. Vendeu? Registra saída.
+- detalhes sensíveis de infraestrutura;
+- fluxos internos de autenticação;
+- rotas, variáveis e configurações privadas;
+- informações que possam comprometer segurança, clientes ou ambientes.
 
-4. **Acompanhe seu estoque com clareza**  
-   Menos achismo, menos erro e mais controle para decidir melhor.
-
----
-
-## Tecnologias utilizadas
-
-> Atualize esta seção conforme a stack real do projeto.
-
-| Camada | Tecnologia |
-|---|---|
-| Frontend | `Ex: React / Next.js / Vue / Angular` |
-| Backend | `Ex: Node.js / NestJS / Ruby on Rails / Python` |
-| Banco de dados | `Ex: PostgreSQL / MySQL / MongoDB / Supabase` |
-| Autenticação | `Ex: JWT / OAuth / Auth.js / Firebase Auth` |
-| Testes | `Ex: Jest / Vitest / Cypress / Playwright / RSpec / Pytest` |
-| Deploy | `Ex: Vercel / Render / Railway / AWS / Docker` |
+Isso nos permite mostrar nossa visão, qualidade e potencial sem abrir mão da proteção do produto e da empresa.
 
 ---
 
-## Como rodar o projeto
+## O que você encontra por aqui
 
-> Os comandos abaixo são um modelo base. Ajuste conforme a tecnologia usada no repositório.
+Nos repositórios públicos da Lapidatto, você pode encontrar materiais relacionados a:
 
-### 1. Clone o repositório
+- produtos e módulos em evolução;
+- documentação pública e institucional;
+- experimentos, estudos e materiais de apoio;
+- iniciativas ligadas à experiência do usuário, qualidade e educação.
 
-```bash
-git clone https://github.com/lapidatto/nome-do-repositorio.git
-cd nome-do-repositorio
-```
-
-### 2. Configure as variáveis de ambiente
-
-```bash
-cp .env.example .env
-```
-
-Depois, preencha o arquivo `.env` com as informações necessárias:
-
-```env
-APP_URL=http://localhost:3000
-DATABASE_URL=
-AUTH_SECRET=
-```
-
-### 3. Instale as dependências
-
-```bash
-npm install
-```
-
-ou, se o projeto usar `pnpm`:
-
-```bash
-pnpm install
-```
-
-### 4. Rode o projeto localmente
-
-```bash
-npm run dev
-```
-
-ou:
-
-```bash
-pnpm dev
-```
-
-Acesse no navegador:
-
-```bash
-http://localhost:3000
-```
+Alguns projetos podem estar em fase inicial, validação ou evolução contínua. Esse é um reflexo do nosso processo: construir, testar, aprender e melhorar com responsabilidade.
 
 ---
 
-## Scripts úteis
+## Para quem estamos construindo
 
-> Atualize os scripts conforme o `package.json`, `Makefile` ou ferramenta equivalente do projeto.
+A Lapidatto é feita para pessoas que empreendem no mundo real.
 
-```bash
-npm run dev       # inicia o ambiente de desenvolvimento
-npm run build     # gera a versão de produção
-npm run test      # executa os testes
-npm run lint      # verifica padrões de código
-npm run format    # formata o código
-```
+Especialmente para quem:
 
----
+- está começando um negócio;
+- vende em loja física, online ou nos dois;
+- controla estoque de forma manual;
+- sente que a operação está ficando bagunçada;
+- quer profissionalizar sem contratar um sistema gigante;
+- precisa de tecnologia simples, acessível e confiável.
 
-## Estrutura sugerida do projeto
-
-> Ajuste conforme a estrutura real do repositório.
-
-```bash
-.
-├── docs/                 # Documentação do projeto
-│   └── assets/           # Logo, imagens e materiais visuais
-├── src/                  # Código-fonte principal
-│   ├── components/       # Componentes de interface
-│   ├── pages/            # Páginas ou rotas
-│   ├── services/         # Comunicação com APIs e regras externas
-│   ├── modules/          # Domínios do sistema
-│   └── tests/            # Testes automatizados
-├── .env.example          # Exemplo de variáveis de ambiente
-├── README.md             # Documentação principal
-└── package.json          # Dependências e scripts
-```
+Nosso compromisso é ajudar esse público a ganhar clareza, tempo e controle.
 
 ---
 
-## Qualidade e DNA de QA
+## Nossa visão
 
-A Lapidatto tem uma visão simples sobre qualidade:
+Queremos ser uma empresa brasileira de tecnologia reconhecida por criar software simples, bem acabado e acessível para pequenos negócios.
 
-> **É melhor entregar menos, mas bem feito, do que lançar correndo e quebrar a rotina de quem usa.**
+Não buscamos lançar funcionalidades por pressa. Buscamos construir soluções que façam sentido, funcionem bem e respeitem a rotina de quem depende delas todos os dias.
 
-Por isso, este projeto deve priorizar:
-
-- testes automatizados nos fluxos críticos;
-- interface simples e previsível;
-- mensagens de erro claras;
-- documentação objetiva;
-- revisão antes de release;
-- feedback real de usuários;
-- evolução gradual, sem prometer o que ainda não está pronto.
-
-Qualidade aqui não é detalhe técnico. É respeito com o pequeno empreendedor que depende do sistema para trabalhar melhor.
+**Menos complexidade. Mais clareza. Mais controle. Mais tempo para vender.**
 
 ---
 
-## Princípios de experiência
+## Contato
 
-Tudo na Lapidatto precisa responder a três perguntas:
-
-1. **Está claro?**  
-   A pessoa entende sem precisar ser técnica?
-
-2. **Está simples?**  
-   O fluxo reduz esforço ou cria mais uma tarefa?
-
-3. **Está útil?**  
-   Resolve uma dor real do negócio?
-
-Quando houver dúvida, a decisão deve favorecer clareza, estabilidade e autonomia.
+- Site: [lapidattoconsulting.com](https://lapidattoconsulting.com)
+- Instagram: [@lapidatto](https://instagram.com/lapidatto)
 
 ---
 
-## Documentação
-
-A documentação deve funcionar como um “manual amigo”: direto, prático e com exemplos.
-
-Sugestão de conteúdos:
-
-- como cadastrar um produto;
-- como registrar entrada de estoque;
-- como registrar saída de estoque;
-- como organizar categorias;
-- como importar dados de uma planilha;
-- erros comuns e como resolver;
-- perguntas frequentes para iniciantes.
-
----
-
-## Roadmap
-
-### Fase 1 — Base do estoque
-
-- Cadastro de produtos
-- Entrada e saída de itens
-- Listagem e busca
-- Ajustes de usabilidade
-- Primeiros testes com usuários reais
-
-### Fase 2 — Organização e produtividade
-
-- Categorias
-- Estoque mínimo
-- Histórico de movimentações
-- Importação/exportação
-- Melhorias no onboarding
-
-### Fase 3 — Inteligência e crescimento
-
-- Relatórios simples
-- Indicadores de estoque
-- Sugestões de reposição
-- Integrações
-- Novos módulos do ecossistema Lapidatto
-
----
-
-## Como contribuir
-
-Contribuições são bem-vindas, principalmente quando ajudam a deixar o sistema mais simples, estável e útil para pequenos negócios.
-
-### Fluxo recomendado
-
-1. Abra uma issue explicando o problema ou sugestão.
-2. Crie uma branch com nome claro.
-3. Faça a alteração com foco em simplicidade e qualidade.
-4. Adicione ou atualize testes quando necessário.
-5. Abra um pull request explicando o que foi feito e por quê.
-
-### Padrão de branch
-
-```bash
-feature/nome-da-funcionalidade
-fix/nome-do-ajuste
-docs/nome-da-documentacao
-```
-
-### Padrão de commit
-
-```bash
-feat: adiciona cadastro de produtos
-fix: corrige validação de quantidade em estoque
-docs: atualiza instruções de instalação
-```
-
----
-
-## Identidade visual
-
-Para manter consistência com a marca:
-
-- use o logo oficial em `docs/assets/logo-lapidatto.png`;
-- mantenha boa área de respiro ao redor do logo;
-- evite distorcer, rotacionar ou aplicar sombra no logo;
-- priorize tons da família azul e laranja da Lapidatto;
-- use fundos claros ou escuros com bom contraste;
-- escreva com clareza, sem jargão desnecessário.
-
-Cores de referência:
-
-| Cor | HEX |
-|---|---|
-| Azul principal | `#073A87` |
-| Azul claro | `#1482CB` |
-| Azul profundo | `#051E4F` |
-| Roxo tecnológico | `#343065` |
-| Laranja principal | `#DD5502` |
-| Laranja claro | `#FCA24C` |
-| Creme | `#F7F1E7` |
-
----
-
-## Links úteis
-
-- Site: `https://lapidattoconsulting.com`
-- Instagram: `https://instagram.com/lapidatto`
-- Documentação: `em breve`
-- Base de conhecimento: `em breve`
-- Changelog: `em breve`
-
----
-
-## Licença
-
-Este projeto é mantido pela **Lapidatto**.
-
-Defina aqui a licença do projeto:
-
-```text
-MIT, Apache-2.0, Proprietária ou outra licença escolhida.
-```
-
----
-
-<p align="center">
-  <strong>Lapidatto</strong><br />
-  Well-built technology. Made simple.
-</p>
+<div align="center">
+  <strong>Lapidatto — tecnologia simples para pequenos negócios.</strong>
+  <br />
+  <sub>Qualidade acima da pressa. Simplicidade acima do excesso.</sub>
+</div>
